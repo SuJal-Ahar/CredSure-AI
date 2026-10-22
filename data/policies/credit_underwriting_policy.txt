@@ -1,0 +1,58 @@
+# CREDITSURE INSTITUTIONAL CREDIT UNDERWRITING POLICY & GUIDELINES
+Document ID: POL-CR-2026-V4
+Effective Date: January 1, 2026
+Applicability: Retail and Small Business Revolving Credit Facilities
+
+================================================================================
+1. PRUDENTIAL UNDERWRITING STANDARDS & THRESHOLDS
+================================================================================
+1.1 Minimum FICO-Equivalent Score Requirements:
+- Tier 1 (Super Prime / Automated Approval): FICO Score >= 740. Full automated approval with preferred interest margin.
+- Tier 2 (Prime / Standard Automated Approval): FICO Score 680 - 739. Automated approval granted provided DTI <= 40% and no 30+ day payment delinquency in the preceding 12 billing cycles.
+- Tier 3 (Near-Prime / Conditional Review): FICO Score 620 - 679. Automated approval prohibited. Mandatory Senior Underwriter review required. Approval conditioned on minimum 6 months documented liquid reserves or primary co-signatory.
+- Tier 4 (Subprime / Adverse Action): FICO Score 580 - 619. Presumptive decline unless supported by 100% cash-collateralized security deposit.
+- Tier 5 (Deep Subprime / Automatic Decline): FICO Score < 580. Mandatory adverse action notice issued pursuant to FCRA regulations.
+
+1.2 Credit Utilization Ceiling:
+- Prudential Target: Revolving balance utilization (Statement Balance / Credit Limit) must not exceed 30.0%.
+- Acceptable Ceiling: Utilization between 30.1% and 45.0% permitted for Prime borrowers.
+- Hard Regulatory Ceiling: Utilization exceeding 45.0% mandates an automatic 50-point scorecard penalty and restricts credit limit increases.
+- Overextended Status: Accounts with utilization >= 85.0% are classified as High Default Vulnerability and flagged for credit line curtailment.
+
+1.3 Delinquency Escalation Rules:
+- 30-Day Delinquency (PAY_0 = 1): Requires written customer reminder; credit limit expansion frozen for 6 months.
+- 60-Day Delinquency (PAY_0 = 2): Immediate suspension of promotional interest rates; mandatory manual risk re-evaluation; automatic -70 points credit score deduction.
+- 90-Day Delinquency (PAY_0 >= 3): Revolving charging privileges revoked; account transferred to Institutional Loss Mitigation & Collections.
+
+1.4 Maximum Debt-to-Income (DTI) Ratios:
+- Standard Maximum DTI: 43.0% of gross verifiable monthly income.
+- Exceptional Maximum DTI: 45.0% permitted only for applicants with FICO >= 720 and minimum 12 months liquid assets.
+- Unconditional Decline: Any applicant with DTI exceeding 50.0% is disqualified from unsecured credit facilities.
+
+================================================================================
+2. BASEL III CAPITAL & EXPOSURE FRAMEWORK
+================================================================================
+2.1 Basel Expected Loss (EL) Formula:
+Expected Loss is computed across all commitments as:
+    EL = PD * EAD * LGD
+Where:
+- PD (Probability of Default): Derived from the empirical Weight of Evidence (WoE) Scorecard.
+- EAD (Exposure at Default): Sum of current drawn balance plus Credit Conversion Factor (CCF) applied to undrawn credit:
+    EAD = Drawn Balance + (20% * Undrawn Commitment)
+- LGD (Loss Given Default): Baseline regulatory LGD benchmark is 45.0% for unsecured retail revolving facilities.
+
+2.2 Macroeconomic Stress Testing:
+Institutional capital reserves must withstand a 99.0% Value-at-Risk (VaR) 1-year loss horizon under simulated stress scenarios:
+- Mild Recession Scenario: +1 month repayment delay shift across active borrowers, +10% drawn balance expansion, +20% default probability shift.
+- Severe Stagflation Scenario: +2 months repayment delay shift, +15% balance expansion, +50% default probability shift, LGD elevated to 60.0%.
+
+================================================================================
+3. REGULATORY FAIR LENDING & FCRA ADVERSE ACTION COMPLIANCE
+================================================================================
+3.1 Equal Credit Opportunity Act (ECOA - Regulation B):
+- Non-Discrimination: Credit decisions must strictly rely on verifiable financial and behavioral metrics (payment history, credit utilization, debt load, income stability).
+- Disparate Impact Prevention: Demographic attributes (Sex, Age, Marital Status) must not be utilized as discriminatory exclusion factors.
+
+3.2 Fair Credit Reporting Act (FCRA) Adverse Action Disclosures:
+- When credit is denied or granted on less favorable terms, the applicant must receive an Adverse Action Notice within 30 calendar days.
+- The notice must disclose the specific numerical credit score, the score range (300 to 850), and the top 4 adverse score factor codes (e.g., RC-01 Delinquent Status, RC-02 High Utilization, RC-03 Insufficient Payment-to-Balance Ratio, RC-04 Limited Credit History).
